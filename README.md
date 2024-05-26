@@ -14,12 +14,14 @@ classic chess rules may become tiresome. The good news is that there are hundred
 One of them is Pawns-only chess. Let's make a game where players should move their pawns to the opposite side of the
 board or capture all opposite pawns to win. In this project, you will create a game intended for two players."*
 
-I will leave the link below if you are interested. 
+I will leave the link below if you are interested.
 
 > ### Current state of the code: STAGE 3 "Game Loop" out of 5.         
 > 100% RUNNING CODE THO! :rocket:
 
-[Software Demo Video](http://youtube.link.goes.here)
+![img.png](img.png)
+
+# [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
