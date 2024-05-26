@@ -1,8 +1,8 @@
 package chess
 
 class InputChecker {
-    val base_letters = arrayOf('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h')
-    val base_numbers = arrayOf('1', '2', '3', '4', '5', '6', '7', '8')
+    val base_letters = setOf('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h')
+    val base_numbers = setOf('1', '2', '3', '4', '5', '6', '7', '8')
 
     fun checker1(p1turns: String): Boolean {
         if (p1turns.length != 4) {
