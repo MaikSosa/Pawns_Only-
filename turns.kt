@@ -3,10 +3,7 @@ package chess
 import chess.Participants.Companion.p1name
 
 class Turns {
-    companion object {
-        var p1turn: String = "NULL"
-        var p2turn: String = "NULL"
-    }
+
     fun gameLoop(): Int {
         while (true) {
             var currentPlayer = 1 // Start with player 1
@@ -30,6 +27,6 @@ class Turns {
                 currentPlayer = 3 - currentPlayer // Alternates between 1 and 2
             }
         }
-        return 1
+    return 1
     }
 }

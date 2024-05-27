@@ -21,7 +21,7 @@ I will leave the link below if you are interested.
 
 ![img.png](img.png)
 
-# [Software Demo Video](http://youtube.link.goes.here)
+# [Software Demo Video](https://youtu.be/5v_gnhDLdRY)
 
 # Development Environment
 
